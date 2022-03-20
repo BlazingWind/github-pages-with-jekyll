@@ -1,5 +1,5 @@
 ---
-title: "Sylwia Budzyńska a.k.a BlazingWind"
+title: "Home"
 ---
 
 Computer Science master's degree student at Warsaw University of Technology. 
